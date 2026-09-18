@@ -3,17 +3,15 @@
 ## 📌 Project Overview
 **AgroShield** is an AI-powered mobile application designed to protect smallholder farmers in Kenya from counterfeit agricultural inputs (seeds, fertilizers, and pesticides)[cite: 2]. By leveraging computer vision and transfer learning models, AgroShield enables real-time verification of product packaging authenticity directly at the point of sale[cite: 1, 2].
 
-* **Unit:** ICS 3202 — Artificial Intelligence
-* **Deliverable:** Semester Project Deliverable 1 — Dataset Exploration
-* **Repository Name:** `SemProject_MLEngine`[cite: 3]
 
 ---
 
 ## 👥 Team Members
 | Name | Student ID |
 | :--- | :--- |
-| **Moses** | 190027 |
+| **Moses Mugo** | 190027 |
 | **Barak Makedi** | 165767 |
+| ** Alfred peter** | 190285 |
 
 ---
 
