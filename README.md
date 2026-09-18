@@ -11,7 +11,7 @@
 | :--- | :--- |
 | **Moses Mugo** | 190027 |
 | **Barak Makedi** | 165767 |
-| ** Alfred peter** | 190285 |
+| **Alfred peter** | 190285 |
 
 ---
 
